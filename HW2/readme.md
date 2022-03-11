@@ -1,5 +1,4 @@
-
-## Lessons Learned
+## CODE HACKING #2
 
 Belajar mandiri bagaimana kita dapat berinteraksi dengan smartcontract beserta toolsnya
 seperti remix, ganache, dan meta mask. Pada tugas ke-2 ini saya membuat sebuah
